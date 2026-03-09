@@ -25,3 +25,4 @@ A ferramenta automatiza o processo manual de coleta de informações:
 
 Este projeto demonstra habilidades em **Automação de Processos**, **Manipulação de DOM** e **Integração com Arquivos Externos**, competências fundamentais para um desenvolvedor de sistemas moderno que precisa lidar com integração de dados de fontes externas.
 
+ 
